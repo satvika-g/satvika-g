@@ -88,8 +88,4 @@ A machine learning project combining Twitter sentiment analysis with financial d
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/satvika_g">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  &nbsp;
 </p>
