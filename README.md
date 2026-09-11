@@ -61,13 +61,15 @@ A Python-based project for analyzing COVID-19 data, visualizing trends, and fore
 
 A deep learning project for classifying protein sequences using neural network models and sequence-based features.
 
-**Python · Deep Learning · Protein Sequence Classification**---
+**Python · Deep Learning · Classification**
 
 ### [Stock Price Prediction using Twitter Sentiment](YOUR_REPOSITORY_LINK)
 
 A machine learning project combining Twitter sentiment analysis with financial data to explore stock-price trends.
 
 **Python · NLP · Sentiment Analysis · Machine Learning**
+
+---
 
 ## LeetCode
 
