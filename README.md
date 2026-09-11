@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/satvika-gudladona">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="YOUR_LEETCODE_URL">LeetCode</a>
+  <a href="https://www.leetcode.com/u/satvika_g">LeetCode</a>
   &nbsp;·&nbsp;
-  <a href="YOUR_GITHUB_URL">GitHub</a>
+  <a href="">GitHub</a>
 </p>
 
 ---
