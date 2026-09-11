@@ -51,7 +51,7 @@ I work with Python, SQL, AI/ML, data analysis, and software development, while c
 
 ## Projects
 
-### [COVID-19 Visualization & Prediction] (https://github.com/satvika-g/Covid-19-visualization-and-prediction)
+### [COVID-19 Visualization & Prediction](https://github.com/satvika-g/Covid-19-visualization-and-prediction)
 
 A Python-based project for analyzing COVID-19 data, visualizing trends, and forecasting using machine learning models.
 
