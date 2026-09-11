@@ -57,13 +57,13 @@ A Python-based project for analyzing COVID-19 data, visualizing trends, and fore
 
 **Python · Matplotlib · Scikit-learn**
 
-### [Deep Learning Protein Classification](YOUR_REPOSITORY_LINK)
+### [Deep Learning Protein Classification](https://github.com/satvika-g/Protein-Family-Classification-using-Deep-Learning)
 
 A deep learning project for classifying protein sequences using neural network models and sequence-based features.
 
 **Python · Deep Learning · Classification**
 
-### [Stock Price Prediction using Twitter Sentiment](YOUR_REPOSITORY_LINK)
+### [Stock Price Prediction using Twitter Sentiment](https://github.com/satvika-g/Twitter-Based-Stock-Price-Prediction)
 
 A machine learning project combining Twitter sentiment analysis with financial data to explore stock-price trends.
 
