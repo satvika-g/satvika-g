@@ -51,25 +51,23 @@ I work with Python, SQL, AI/ML, data analysis, and software development, while c
 
 ## Projects
 
-### COVID-19 Visualization & Prediction
+### [COVID-19 Visualization & Prediction] 
 
 A Python-based project for analyzing COVID-19 data, visualizing trends, and forecasting using machine learning models.
 
 **Python · Matplotlib · Scikit-learn**
 
-### Deep Learning Protein Classification
+### [Deep Learning Protein Classification](YOUR_REPOSITORY_LINK)
 
 A deep learning project for classifying protein sequences using neural network models and sequence-based features.
 
-**Python · Deep Learning · Classification**
+**Python · Deep Learning · Protein Sequence Classification**---
 
-### Stock Price Prediction using Twitter Sentiment
+### [Stock Price Prediction using Twitter Sentiment](YOUR_REPOSITORY_LINK)
 
 A machine learning project combining Twitter sentiment analysis with financial data to explore stock-price trends.
 
 **Python · NLP · Sentiment Analysis · Machine Learning**
-
----
 
 ## LeetCode
 
