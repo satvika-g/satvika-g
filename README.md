@@ -9,7 +9,7 @@
   &nbsp;·&nbsp;
   <a href="https://www.leetcode.com/u/satvika_g">LeetCode</a>
   &nbsp;·&nbsp;
-  <a href="">GitHub</a>
+  <a href="https://github.com/satvika-g">GitHub</a>
 </p>
 
 ---
