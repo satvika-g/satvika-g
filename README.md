@@ -1,55 +1,92 @@
-Hi, I’m Satvika
-
-Computer Science and Engineering graduate currently working as a Systems Engineer at Tata Consultancy Services (TCS).
-
-About Me
-
-* B.Tech in Computer Science and Engineering (AI/ML)
-* Working with Python, SQL, AI/ML, and data
-* Familiar with machine learning, NLP, data visualization, and web development
-* Currently strengthening my DSA and software development skills
-
-Tech Stack
-
-Languages: Python, C, Java, SQL
-AI/ML: Scikit-learn, NLP, Regression, Model Evaluation
-Web: HTML, CSS, JavaScript
-Tools: Git, GitHub, VS Code
-
-Projects
-
-* COVID-19 Visualization & Prediction — Data analysis, visualization, and forecasting using Python and machine learning models.
-* Stock Price Prediction using Twitter Sentiment — Combined NLP, sentiment analysis, and machine learning to explore stock-price trends.
-
-Coding Profiles
-
-LeetCode
+<h1 align="center">Hi, I'm Satvika</h1>
 
 <p align="center">
-  <a href="https://leetcode.com/u/satvika_g">
-    <img src="https://leetcard.jacoblin.cool/satvika_g?theme=light&font=baloo&ext=heatmap" alt="Satvika's LeetCode Stats" />
+  Computer Science & Engineering graduate · Systems Engineer at TCS
+</p>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="YOUR_LEETCODE_URL">LeetCode</a>
+  &nbsp;·&nbsp;
+  <a href="YOUR_GITHUB_URL">GitHub</a>
+</p>
+
+---
+
+## About
+
+I'm a Computer Science and Engineering graduate specializing in AI/ML.
+
+Currently working as a **Systems Engineer at Tata Consultancy Services (TCS)**.
+
+I work with Python, SQL, AI/ML, data analysis, and software development, while continuing to strengthen my DSA and programming fundamentals.
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI / ML & Data**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4A90E2?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Web & Tools**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## Selected Projects
+
+### COVID-19 Visualization & Prediction
+
+A Python-based project for analyzing COVID-19 data, visualizing trends, and forecasting using machine learning models.
+
+**Python · Matplotlib · Scikit-learn**
+
+### Stock Price Prediction using Twitter Sentiment
+
+A machine learning project combining Twitter sentiment analysis with financial data to explore stock-price trends.
+
+**Python · NLP · Sentiment Analysis · Machine Learning**
+
+---
+
+## LeetCode
+
+<p align="center">
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://leetcard.jacoblin.cool/satvika_g?theme=dark&font=baloo&ext=heatmap" width="500" />
   </a>
 </p>
 
-⸻
+---
+
+## Let's Connect
 
 <p align="center">
-  <a href="https://github.com/satvika-g">GitHub</a> •
-  <a href="https://www.linkedin.com/in/satvika-gudladona/">LinkedIn</a> •
-  <a href="https://leetcode.com/u/satvika_g">LeetCode</a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="YOUR_GITHUB_URL">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
-<!--
-**satvika-g/satvika-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
