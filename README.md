@@ -49,13 +49,19 @@ I work with Python, SQL, AI/ML, data analysis, and software development, while c
 
 ---
 
-## Selected Projects
+## Projects
 
 ### COVID-19 Visualization & Prediction
 
 A Python-based project for analyzing COVID-19 data, visualizing trends, and forecasting using machine learning models.
 
 **Python · Matplotlib · Scikit-learn**
+
+### Deep Learning Protein Classification
+
+A deep learning project for classifying protein sequences using neural network models and sequence-based features.
+
+**Python · Deep Learning · Classification**
 
 ### Stock Price Prediction using Twitter Sentiment
 
@@ -68,7 +74,7 @@ A machine learning project combining Twitter sentiment analysis with financial d
 ## LeetCode
 
 <p align="center">
-  <a href="YOUR_LEETCODE_URL">
+  <a href="https://leetcode.com/u/satvika_g">
     <img src="https://leetcard.jacoblin.cool/satvika_g?theme=dark&font=baloo&ext=heatmap" width="500" />
   </a>
 </p>
@@ -78,15 +84,12 @@ A machine learning project combining Twitter sentiment analysis with financial d
 ## Let's Connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/satvika-gudladona">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="YOUR_LEETCODE_URL">
+  <a href="https://leetcode.com/u/satvika_g">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   &nbsp;
-  <a href="YOUR_GITHUB_URL">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
