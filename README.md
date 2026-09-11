@@ -80,12 +80,3 @@ A machine learning project combining Twitter sentiment analysis with financial d
 </p>
 
 ---
-
-## Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/satvika-gudladona">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-</p>
