@@ -75,7 +75,7 @@ A machine learning project combining Twitter sentiment analysis with financial d
 
 <p align="center">
   <a href="https://leetcode.com/u/satvika_g">
-    <img src="https://leetcard.jacoblin.cool/satvika_g?theme=dark&font=baloo&ext=heatmap" width="500" />
+    <img src="https://leetcard.jacoblin.cool/satvika_g?theme=dark&font=baloo" width="500" />
   </a>
 </p>
 
